@@ -1,0 +1,14 @@
+button{
+  border: 2px solid black;
+  padding: 15px 90px;
+}
+
+button:hover{
+  background-color: black;
+  color: white;
+  font-size: large;
+}
+
+footer{
+  width: 100%;
+}
