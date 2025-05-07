@@ -80,10 +80,9 @@ function App() {
       >
         <img src="/images/beast1.png" alt="Beast Games Logo" className="w-70 h-32 mb-12 mt-12" />
         <div className="relative bg-white text-black rounded-lg p-6 max-w-lg text-center shadow-lg mb-60">
-          <h1 className="text-2xl font-bold">Applications Are Now Closed</h1>
+          <h1 className="text-2xl font-bold">Join the Beast Games-Applications Open, Spots Filling Fast!</h1>
           <p className="mt-3">We appreciate the incredible response and enthusiasm from all participants. Your excitement and passion mean the world to us!</p>
-          <p className="mt-3 mb-12">Stay ahead of the game—sign up below to receive updates and be the first to know when applications reopen for the next Beast Games!</p>
-
+<p className="mt-3 mb-12">Applications are now <strong>OPEN</strong> — but spots are limited! Do not miss your chance to be part of the next Beast Games. Sign up below and secure your spot today!</p>
           {submitted ? (
             <div className="text-center">
               <p className="text-green-600 text-lg font-semibold">🎉 Thank you for signing up! Keep an eye on your inbox for future announcements.</p>
